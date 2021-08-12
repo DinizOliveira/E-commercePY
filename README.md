@@ -1,1 +1,1 @@
-# E-commerce em Django
+# Projeto de E-commerce em Django
